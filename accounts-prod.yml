@@ -1,0 +1,11 @@
+build:
+  version: "1.O"
+
+accounts:
+  message: "Welcome to EasyBank accounts relatred lal APIs"
+  contactDetails:
+    name: "kartik -project lead"
+    email: "emperor@easybank.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 555-1235

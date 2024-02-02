@@ -1,0 +1,12 @@
+
+
+build:
+  version: "1.O"
+cards:
+  message: "Welcome to EasyBank cards related local APIs"
+  contactDetails:
+    name: "black-product-owner"
+    email: "emperor@easybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1235

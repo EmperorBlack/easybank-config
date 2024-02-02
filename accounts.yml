@@ -1,0 +1,11 @@
+build:
+  version: "3.O"
+
+accounts:
+  message: "Welcome to EasyBank accounts related lal APIs"
+  contactDetails:
+    name: "emperor -Developer"
+    email: "emperor@easybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1235

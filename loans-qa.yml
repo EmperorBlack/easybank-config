@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.O"
+
+loans:
+  message: "Welcome to EasyBank loans related local APIs"
+  contactDetails:
+    name: "kartik QA lead"
+    email: "emperor@easybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1235
