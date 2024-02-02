@@ -1,6 +1,5 @@
 build:
   version: "3.O"
-
 cards:
   message: "Welcome to EasyBank cards related local APIs"
   contactDetails:
