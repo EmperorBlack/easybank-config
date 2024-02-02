@@ -1,7 +1,7 @@
 build:
   version: "2.O"
 loans:
-  message: "Welcome to EasyBank loans related QA APIs"
+  message: "Welcome to EasyBank loans related test APIs"
   contactDetails:
     name: "kartik QA lead"
     email: "emperor@easybank.com"
