@@ -1,8 +1,5 @@
-
-
 build:
   version: "2.O"
-
 loans:
   message: "Welcome to EasyBank loans related local APIs"
   contactDetails:
