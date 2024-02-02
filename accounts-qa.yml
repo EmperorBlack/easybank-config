@@ -2,7 +2,7 @@ build:
   version: "2.O"
 
 accounts:
-  message: "Welcome to EasyBank accounts relatred lal APIs"
+  message: "Welcome to EasyBank accounts relatred QA APIs"
   contactDetails:
     name: "black -QA lead"
     email: "emperor@easybank.com"
