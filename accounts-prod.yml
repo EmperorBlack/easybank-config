@@ -2,7 +2,7 @@ build:
   version: "1.O"
 
 accounts:
-  message: "Welcome to EasyBank accounts relatred lal APIs"
+  message: "Welcome to EasyBank accounts relatred production APIs"
   contactDetails:
     name: "kartik -project lead"
     email: "emperor@easybank.com"
